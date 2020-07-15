@@ -17,3 +17,6 @@ I am an Embedded systems Engineer and Software developer. I have a Master degree
 - Gamio https://github.com/walidamriou/Gamio
 - slothlab https://github.com/walidamriou/slothlab
 - Designolor Desktop app https://github.com/walidamriou/Designolor_Desktop
+- Moskotcho Remote Slides https://github.com/walidamriou/Moskotcho_Remote_Slides
+- ESP IDF Examples https://github.com/walidamriou/ESP_IDF_Examples
+- ESP32 ESP8266 IPScanner https://github.com/walidamriou/ESP32_ESP8266_IPScanner
