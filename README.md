@@ -1,23 +1,23 @@
 ### About me
 I am an Embedded systems Engineer and Software developer. I have a Master degree in Embedded systems and a Bachelor degree in Electronics. I won several local awards in software development. I have been an active contributor with Mozilla, Mozilla Algeria, and Google Developers Group M'sila (GDG M’sila).
 #### My projects
-- Medical Signal Box https://github.com/walidamriou/MedicalSignalsBox
-- Beetrave https://beetrave.walidamriou.com
-- Moskotcho Password Generator https://moskotchopg.walidamriou.com
-- Lokum GoLang https://lokumgolang.walidamriou.com
-- Lokum Python https://lokumpython.walidamriou.com
-- FridgeOS https://fridgeos.walidamriou.com
-- Remote Summer Training https://summertraining.walidamriou.com
-- Manter https://manter.walidamriou.com
+- Medical Signal Box : [github](https://github.com/walidamriou/MedicalSignalsBox "github") 
+- Beetrave : [website](https://beetrave.walidamriou.com "website") 
+- Moskotcho Password Generator : [website](https://moskotchopg.walidamriou.com "website") 
+- Lokum GoLang : [website](https://lokumgolang.walidamriou.com "website") 
+- Lokum Python : [website](https://lokumpython.walidamriou.com "website") 
+- FridgeOS : [website](https://fridgeos.walidamriou.com "website") 
+- Remote Summer Training : [website](https://summertraining.walidamriou.com "website") 
+- Manter : [website](https://manter.walidamriou.com "website") 
 - Nibras : [website](https://nibras.walidamriou.com "website") . [github](https://github.com/walidamriou/Nibras "github repository of website")  
-- Manara https://manara.walidamriou.com
-- Qrcode Generator Desktop app https://github.com/walidamriou/Qrcode-Generator-Desktop-Java
-- Controlling ESP by Google Calendar https://github.com/walidamriou/Controlling_ESP_by_Google_Calendar
-- ESP Data to Google Sheets https://github.com/walidamriou/ESP_Data_to_Google_Sheets
-- ECG Generator https://github.com/walidamriou/ECGGenerator
-- Gamio https://github.com/walidamriou/Gamio
-- slothlab https://github.com/walidamriou/slothlab
-- Designolor Desktop app https://github.com/walidamriou/Designolor_Desktop
-- Moskotcho Remote Slides https://github.com/walidamriou/Moskotcho_Remote_Slides
-- ESP IDF Examples https://github.com/walidamriou/ESP_IDF_Examples
-- ESP32 ESP8266 IPScanner https://github.com/walidamriou/ESP32_ESP8266_IPScanner
+- Manara : [website](https://manara.walidamriou.com "website") 
+- Qrcode Generator Desktop app : [github](https://github.com/walidamriou/Qrcode-Generator-Desktop-Java "github") 
+- Controlling ESP by Google Calendar : [github](https://github.com/walidamriou/Controlling_ESP_by_Google_Calendar "github") 
+- ESP Data to Google Sheets : [github](hhttps://github.com/walidamriou/ESP_Data_to_Google_Sheets "github") 
+- ECG Generator : [github](https://github.com/walidamriou/ECGGenerator "github") 
+- Gamio : [github](https://github.com/walidamriou/Gamio "github") 
+- slothlab : [github]( https://github.com/walidamriou/slothlab "github")
+- Designolor Desktop app : [github](https://github.com/walidamriou/Designolor_Desktop "github") 
+- Moskotcho Remote Slides : [github](https://github.com/walidamriou/Moskotcho_Remote_Slides "github") 
+- ESP IDF Examples : [github](https://github.com/walidamriou/ESP_IDF_Examples "github") 
+- ESP32 ESP8266 IPScanner : [github](https://github.com/walidamriou/ESP32_ESP8266_IPScanner "github") 
