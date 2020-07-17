@@ -9,6 +9,7 @@ I am an Embedded systems Engineer and Software developer. I have a Master degree
 - FridgeOS https://fridgeos.walidamriou.com
 - Remote Summer Training https://summertraining.walidamriou.com
 - Manter https://manter.walidamriou.com
+- Nibras : [website](https://nibras.walidamriou.com "website") . [github](https://github.com/walidamriou/Nibras "github repository of website")  
 - Manara https://manara.walidamriou.com
 - Qrcode Generator Desktop app https://github.com/walidamriou/Qrcode-Generator-Desktop-Java
 - Controlling ESP by Google Calendar https://github.com/walidamriou/Controlling_ESP_by_Google_Calendar
