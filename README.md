@@ -2,8 +2,8 @@
 I am an Embedded systems Engineer and Software developer. I have a Master degree in Embedded systems and a Bachelor degree in Electronics. I won several local awards in software development. I have been an active contributor with Mozilla, Mozilla Algeria, and Google Developers Group M'sila (GDG M’sila).
 #### My projects
 - Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
-- Tala OS (Hardware/Software   [website](https://talaos.walidamriou.com/ "website") 
-- Beetrave (Hardware/Software   [website](https://beetrave.walidamriou.com "website") 
+- Tala OS (Hardware/Software)   [website](https://talaos.walidamriou.com/ "website") 
+- Beetrave (Hardware/Software)   [website](https://beetrave.walidamriou.com "website") 
 - Moskotcho Password Generator (Software) [website](https://moskotchopg.walidamriou.com "website")  
 - Lokum GoLang  (Software) [website](https://lokumgolang.walidamriou.com "website")   
 - Lokum Python (Software) [website](https://lokumpython.walidamriou.com "website")   
