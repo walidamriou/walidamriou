@@ -9,6 +9,7 @@ I am an Embedded systems Engineer and Software developer. I have a Master degree
 - Lokum Python (Software) [website](https://lokumpython.walidamriou.com "website")   
 - FridgeOS (Hardware/Software) [website](https://fridgeos.walidamriou.com "website")   
 - Remote Summer Training [website](https://summertraining.walidamriou.com "website") 
+- WalidAmriou ESP IoT Library (Hardware) [github](https://github.com/walidamriou/WalidAmriou_ESP_IoT "github")
 - Manter  (Hardware/Software) [website](https://manter.walidamriou.com "website")   
 - Nibras  (Software) [website](https://nibras.walidamriou.com "website") [github](https://github.com/walidamriou/Nibras "github repository of website")    
 - Manara (Software) [website](https://manara.walidamriou.com "website")   
@@ -23,3 +24,4 @@ I am an Embedded systems Engineer and Software developer. I have a Master degree
 - ESP IDF Examples (Hardware) [github](https://github.com/walidamriou/ESP_IDF_Examples "github")   
 - ESP32 ESP8266 IPScanner (Hardware) [github](https://github.com/walidamriou/ESP32_ESP8266_IPScanner "github")   
 - ESP32 OTA Update via HTTPS (Hardware) [github](https://github.com/walidamriou/ESP32_OTA_Update_via_HTTPS "github")  
+   
