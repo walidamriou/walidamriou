@@ -24,4 +24,6 @@ I am an Embedded systems Engineer and Software developer. I have a Master degree
 - ESP IDF Examples (Hardware) [github](https://github.com/walidamriou/ESP_IDF_Examples "github")   
 - ESP32 ESP8266 IPScanner (Hardware) [github](https://github.com/walidamriou/ESP32_ESP8266_IPScanner "github")   
 - ESP32 OTA Update via HTTPS (Hardware) [github](https://github.com/walidamriou/ESP32_OTA_Update_via_HTTPS "github")  
+- Fojla  (Hardware/Software) [website](https://fojla.walidamriou.com "website") Embedded Systems Dictionary 
+
    
