@@ -16,6 +16,7 @@ I am an Embedded systems Engineer and Software developer. I have a Master degree
 - ECG Generator (Hardware/Software) [github](https://github.com/walidamriou/ECGGenerator "github")   
 - Gamio  (Software) [github](https://github.com/walidamriou/Gamio "github")   
 - slothlab  (Software) [github]( https://github.com/walidamriou/slothlab "github")   
+- Algerian Newspapers FirefoxOS application [github]( https://github.com/walidamriou/Algerian-Newspapers-FirefoxOS-application "github") 
 - Designolor Desktop app  (Software) [github](https://github.com/walidamriou/Designolor_Desktop "github")   
 - Moskotcho Remote Slides (Software) [github](https://github.com/walidamriou/Moskotcho_Remote_Slides "github")   
 - ESP IDF Examples (Hardware) [github](https://github.com/walidamriou/ESP_IDF_Examples "github")   
@@ -23,8 +24,11 @@ I am an Embedded systems Engineer and Software developer. I have a Master degree
 - ESP32 OTA Update via HTTPS (Hardware) [github](https://github.com/walidamriou/ESP32_OTA_Update_via_HTTPS "github")  
 - Embedded Words  (Hardware/Software) [website](https://EmbeddedWords.walidamriou.com "website") Embedded Systems Dictionary 
 - Cirbyte (Hardware/Software)   [website](https://Cirbyte.walidamriou.com "website") 
-
-Other project with @Mookhtabar team
+- َHardware implementations by Arduino framework:    [ESP32_Bluetooth_Low_Energy_BLE_Arduino](https://github.com/walidamriou/ESP32_Bluetooth_Low_Energy_BLE_Arduino "Github") , [ESP8266_PWM_Generator_Arduino](https://github.com/walidamriou/ESP8266_PWM_Generator_Arduino "Github") , [Arduino_Multitasking_without_RTOS](https://github.com/walidamriou/Arduino_Multitasking_without_RTOS "Github") , [Arduino_IR_receiver](https://github.com/walidamriou/Arduino_IR_receiver "Github")  , [ESP32_Analyse_IR_Remote_Control_Protocols](https://github.com/walidamriou/ESP32_Analyse_IR_Remote_Control_Protocols "Github") 
+- َHardware implementations by ESP-IDF framework:    [ESP32_IPScanner](https://github.com/walidamriou/ESP32_IPScanner "Github") , [ESP8266_PWM_Generator_Arduino](https://github.com/walidamriou/ESP8266_PWM_Generator_Arduino "Github") ,  
+- Platformio Template:  [Atmel_AVR_Platformio_Project_Template](https://github.com/walidamriou/Atmel_AVR_Platformio_Project_Template "Github") , [M5StickC_Platformio_Template](https://github.com/walidamriou/M5StickC_Platformio_Template "Github")
+--------
+Other project with Mookhtabar team
 - Platoffice (Software)   [website](https://www.mookhtabar.com/2018/10/platoffice.html "website")
 - Designolor(Software)   [website](https://www.mookhtabar.com/2018/10/designolor.html "website")
 - mooneiumlite (Software) [website for Desktop](https://www.mookhtabar.com/2018/09/mooneiumlite.html "website") , [website for Mobile](https://www.mookhtabar.com/2019/09/mooneiumlite-pre-alpha-10-for-android.html "website")
