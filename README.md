@@ -24,4 +24,8 @@ I am an Embedded systems Engineer and Software developer. I have a Master degree
 - Embedded Words  (Hardware/Software) [website](https://EmbeddedWords.walidamriou.com "website") Embedded Systems Dictionary 
 - Cirbyte (Hardware/Software)   [website](https://Cirbyte.walidamriou.com "website") 
 
+Other project with @Mookhtabar team
+- Platoffice (Software)   [website](https://www.mookhtabar.com/2018/10/platoffice.html "website")
+- Designolor(Software)   [website](https://www.mookhtabar.com/2018/10/designolor.html "website")
+- mooneiumlite (Software) [website for Desktop](https://www.mookhtabar.com/2018/09/mooneiumlite.html "website") , [website for Mobile](https://www.mookhtabar.com/2019/09/mooneiumlite-pre-alpha-10-for-android.html "website")
    
