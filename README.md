@@ -1,5 +1,7 @@
 ### About me
-I am an Embedded systems Engineer and Software developer. I have a Master degree in Embedded systems and a Bachelor degree in Electronics. I won several local awards in software development. I have been an active contributor with Mozilla, Mozilla Algeria, and Google Developers Group M'sila (GDG M’sila).
+
+I am an Embedded systems Engineer and Software developer with 3+ years of experience. I have a Master degree in Embedded systems and a Bachelor degree in Electronics. I won several local awards in software development. I have been an active contributor with Mozilla, Mozilla Algeria, and Google Developers Group M'sila (GDG M’sila).  I am working for Groupe Brandt as an Embedded System Engineer. 
+
 #### My projects
 - Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
 - Tala OS (Hardware/Software)   [website](https://talaos.walidamriou.com/ "website") 
@@ -7,7 +9,8 @@ I am an Embedded systems Engineer and Software developer. I have a Master degree
 - Nibras  (Software) [website](https://nibras.walidamriou.com "website") [github](https://github.com/walidamriou/Nibras "github repository of website")    
 - Lokum GoLang  (Software) [website](https://lokumgolang.walidamriou.com "website")   
 - Lokum Python (Software) [website](https://lokumpython.walidamriou.com "website")   
-- Lokum ESP-IDF (Software) [website](https://LokumESPIDF.walidamriou.com "website")   
+- Lokum ESP-IDF (Software/Hardware) [website](https://LokumESPIDF.walidamriou.com "website") 
+- LokumAtmelAVR (Software/Hardware) [github](https://github.com/walidamriou/LokumAtmelAVR "github") 
 - Remote Summer Training [website](https://summertraining.walidamriou.com "website") 
 - WalidAmriou ESP IoT Library (Hardware) [github](https://github.com/walidamriou/WalidAmriou_ESP_IoT "github")
 - Manter  (Hardware/Software) [website](https://manter.walidamriou.com "website")   
@@ -32,6 +35,7 @@ I am an Embedded systems Engineer and Software developer. I have a Master degree
 - Platoffice (Software)   [website](https://www.mookhtabar.com/2018/10/platoffice.html "website")
 - Designolor(Software)   [website](https://www.mookhtabar.com/2018/10/designolor.html "website")
 - mooneiumlite (Software) [website for Desktop](https://www.mookhtabar.com/2018/09/mooneiumlite.html "website") , [website for Mobile](https://www.mookhtabar.com/2019/09/mooneiumlite-pre-alpha-10-for-android.html "website")
+
 #### GDG M'sila
 - GDG-DevFest-Msila website [github](https://github.com/walidamriou/GDG-DevFest-Msila "github") [Website](https://www.walidamriou.com/GDG-DevFest-Msila/ "Website")
 
