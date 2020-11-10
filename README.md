@@ -10,7 +10,7 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 - Lokum GoLang  (Software) [website](https://lokumgolang.walidamriou.com "website")   
 - Lokum Python (Software) [website](https://lokumpython.walidamriou.com "website")   
 - Lokum ESP-IDF (Software/Hardware) [website](https://LokumESPIDF.walidamriou.com "website") 
-- LokumAtmelAVR (Software/Hardware) [github](https://github.com/walidamriou/LokumAtmelAVR "github") 
+- Lokum Atmel AVR (Software/Hardware) [github](https://github.com/walidamriou/LokumAtmelAVR "github") 
 - Remote Summer Training [website](https://summertraining.walidamriou.com "website") 
 - WalidAmriou ESP IoT Library (Hardware) [github](https://github.com/walidamriou/WalidAmriou_ESP_IoT "github")
 - Manter  (Hardware/Software) [website](https://manter.walidamriou.com "website")   
