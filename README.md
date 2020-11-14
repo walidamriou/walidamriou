@@ -6,7 +6,7 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 - Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
 - Tala OS (Hardware/Software)   [website](https://talaos.walidamriou.com/ "website") 
 - Moskotcho Password Generator (Software) [website](https://moskotchopg.walidamriou.com "website")  
-- Nibras  (Software) [website](https://nibras.walidamriou.com "website") [github](https://github.com/walidamriou/Nibras "github repository of website")    
+- Nibras  (Software) [website](https://nibras.walidamriou.com "website") [github](https://github.com/walidamriou/Nibras "github repository of website")   
 - Lokum GoLang  (Software) [website](https://lokumgolang.walidamriou.com "website")   
 - Lokum Python (Software) [website](https://lokumpython.walidamriou.com "website")   
 - Lokum ESP-IDF (Software/Hardware) [website](https://LokumESPIDF.walidamriou.com "website") 
@@ -29,11 +29,8 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 - Embedded Words  (Hardware/Software) [website](https://EmbeddedWords.walidamriou.com "website") Embedded Systems Dictionary 
 - Cirbyte (Hardware/Software)   [website](https://Cirbyte.walidamriou.com "website") 
 - MongoDB NodeJS basics (Software) [github](https://github.com/walidamriou/walidamriou_MongoDB_NodeJS_basics "github")
-
 - َHardware implementations by Arduino framework:    [ESP32 Bluetooth Low Energy BLE](https://github.com/walidamriou/ESP32_Bluetooth_Low_Energy_BLE_Arduino "Github") , [ESP8266 PWM Generator](https://github.com/walidamriou/ESP8266_PWM_Generator_Arduino "Github") , [Multitasking without RTOS](https://github.com/walidamriou/Arduino_Multitasking_without_RTOS "Github") , [IR receiver](https://github.com/walidamriou/Arduino_IR_receiver "Github")  , [Analyse IR Remote Control Protocols](https://github.com/walidamriou/ESP32_Analyse_IR_Remote_Control_Protocols "Github") , [PCF8591 Write Voltage Value I2C](https://github.com/walidamriou/Arduino_PCF8591_Write_Analog_Value_I2C "Github") , [ESP32 PWM Generator](https://github.com/walidamriou/ESP32_PWM_Generator_Arduino "Github")
-
 - َHardware implementations by ESP-IDF framework:    [ESP32_IPScanner](https://github.com/walidamriou/ESP32_IPScanner "Github") , [ESP8266_PWM_Generator_Arduino](https://github.com/walidamriou/ESP8266_PWM_Generator_Arduino "Github")  
-
 - Platformio Template:  [Atmel_AVR_Platformio_Project_Template](https://github.com/walidamriou/Atmel_AVR_Platformio_Project_Template "Github") , [M5StickC_Platformio_Template](https://github.com/walidamriou/M5StickC_Platformio_Template "Github")
 
 #### Other project with Mookhtabar team
