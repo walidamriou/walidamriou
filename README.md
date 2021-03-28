@@ -41,7 +41,7 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 
 #### Contributions (translation)
 - Added Arabic to rms-open-letter.github.io [index.ar.md](https://github.com/rms-open-letter/rms-open-letter.github.io "index.ar.md") 
-- 
+
 #### GDG M'sila
 - GDG-DevFest-Msila website [github](https://github.com/walidamriou/GDG-DevFest-Msila "github") [Website](https://www.walidamriou.com/GDG-DevFest-Msila/ "Website")
 
