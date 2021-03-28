@@ -39,6 +39,9 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 - Designolor(Software)   [website](https://www.mookhtabar.com/2018/10/designolor.html "website")
 - mooneiumlite (Software) [website for Desktop app](https://www.mookhtabar.com/2018/09/mooneiumlite.html "website") , [website for Mobile app](https://www.mookhtabar.com/2019/09/mooneiumlite-pre-alpha-10-for-android.html "website")
 
+#### Contributions (translation)
+- Added Arabic to rms-open-letter.github.io [index.ar.md](https://github.com/rms-open-letter/rms-open-letter.github.io "index.ar.md") 
+- 
 #### GDG M'sila
 - GDG-DevFest-Msila website [github](https://github.com/walidamriou/GDG-DevFest-Msila "github") [Website](https://www.walidamriou.com/GDG-DevFest-Msila/ "Website")
 
