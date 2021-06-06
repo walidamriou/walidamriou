@@ -3,10 +3,13 @@
 I am an Embedded systems Engineer and Software developer with 3+ years of experience. I have a Master degree in Embedded systems and a Bachelor degree in Electronics. I won several local awards in software development. I have been an active contributor with Mozilla, Mozilla Algeria, and Google Developers Group M'sila (GDG M’sila).  I am working for Groupe Brandt as an Embedded System Engineer. 
 
 #### My projects
+#### 2021 Open Source Projects
+
+#### Before 2021 Open Source Projects
 - Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
 - Tala OS (Hardware/Software)   [website](https://talaos.walidamriou.com/ "website") 
 - Moskotcho Password Generator (Software) [website](https://moskotchopg.walidamriou.com "website")  
-- Nibras  (Software) [website](https://nibras.walidamriou.com "website") [github](https://github.com/walidamriou/Nibras "github repository of website")   
+- Nibras online / Desktop app  (Software) [website](https://nibras.walidamriou.com "website") [github web source](https://github.com/walidamriou/Nibras "github repository of website") [github desktop app source](https://github.com/walidamriou/Nibras_Desktop "github repository of website")  
 - Lokum:  
  Lokum GoLang  (Software) [website](https://lokumgolang.walidamriou.com "website")     
  Lokum Python (Software) [website](https://lokumpython.walidamriou.com "website")     
