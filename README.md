@@ -12,10 +12,10 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 
 #### Before 2021 Open Source Projects
 1- Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
-2- Moskotcho Password Generator (Software) [website](https://moskotchopg.walidamriou.com "website")  
-3- Nibras online / Desktop app  (Software) [website](https://nibras.walidamriou.com "website") [github web source](https://github.com/walidamriou/Nibras "github repository of website") [github desktop app source](https://github.com/walidamriou/Nibras_Desktop "github repository of website")  
-4- Lokum
-5- Tiniri  
+2- Moskotcho Password Generator online / Desktop app (Software/Web) [website](https://moskotchopg.walidamriou.com "website")  
+3- Nibras online / Desktop app  (Software/Web) [website](https://nibras.walidamriou.com "website") [github web source](https://github.com/walidamriou/Nibras "github repository of website") [github desktop app source](https://github.com/walidamriou/Nibras_Desktop "github repository of website")  
+4- Lokum  
+5- Tiniri    
 6- Qrcode Generator Desktop app   (Software) [github](https://github.com/walidamriou/Qrcode-Generator-Desktop-Java "github")   
 
 #### Embedded Software and Hardware Implementations 
