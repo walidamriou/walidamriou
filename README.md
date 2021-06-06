@@ -8,37 +8,24 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 2-  
 3-  
 4-  
-(Will publish soon )
+(Will publish soon)
 
 #### Before 2021 Open Source Projects
-- Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
-- Tala OS (Hardware/Software)   [website](https://talaos.walidamriou.com/ "website") 
-- Moskotcho Password Generator (Software) [website](https://moskotchopg.walidamriou.com "website")  
-- Nibras online / Desktop app  (Software) [website](https://nibras.walidamriou.com "website") [github web source](https://github.com/walidamriou/Nibras "github repository of website") [github desktop app source](https://github.com/walidamriou/Nibras_Desktop "github repository of website")  
-- Lokum:  
- Lokum GoLang  (Software) [website](https://lokumgolang.walidamriou.com "website")     
- Lokum Python (Software) [website](https://lokumpython.walidamriou.com "website")     
- Lokum ESP-IDF (Software/Hardware) [website](https://LokumESPIDF.walidamriou.com "website")   
- Lokum Atmel AVR (Software/Hardware) [github](https://github.com/walidamriou/LokumAtmelAVR "github")   
-- Tiniri (Software/Hardware) [Website](https://tiniri.walidamriou.com "Website")  
-- Remote Summer Training [website](https://summertraining.walidamriou.com "website") 
+1- Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
+2- Moskotcho Password Generator (Software) [website](https://moskotchopg.walidamriou.com "website")  
+3- Nibras online / Desktop app  (Software) [website](https://nibras.walidamriou.com "website") [github web source](https://github.com/walidamriou/Nibras "github repository of website") [github desktop app source](https://github.com/walidamriou/Nibras_Desktop "github repository of website")  
+4- Lokum
+5- Tiniri  
+6- Qrcode Generator Desktop app   (Software) [github](https://github.com/walidamriou/Qrcode-Generator-Desktop-Java "github")   
+
+#### Embedded Software and Hardware Implementations 
 - WalidAmriou ESP IoT Library (Hardware) [github](https://github.com/walidamriou/WalidAmriou_ESP_IoT "github")
-- Manter  (Hardware/Software) [website](https://manter.walidamriou.com "website")   
-- Qrcode Generator Desktop app   (Software) [github](https://github.com/walidamriou/Qrcode-Generator-Desktop-Java "github")   
 - Controlling ESP by Google Calendar (Hardware/Software) [github](https://github.com/walidamriou/Controlling_ESP_by_Google_Calendar "github")   
 - ESP Data to Google Sheets (Hardware/Software) [github](hhttps://github.com/walidamriou/ESP_Data_to_Google_Sheets "github")   
-- ECG Generator (Hardware/Software) [github](https://github.com/walidamriou/ECGGenerator "github")   
-- Gamio  (Software) [github](https://github.com/walidamriou/Gamio "github")   
-- slothlab  (Software) [github]( https://github.com/walidamriou/slothlab "github")   
 - Algerian Newspapers FirefoxOS application [github]( https://github.com/walidamriou/Algerian-Newspapers-FirefoxOS-application "github") 
 - Designolor Desktop app  (Software) [github](https://github.com/walidamriou/Designolor_Desktop "github")   
-- Moskotcho Remote Slides (Software) [github](https://github.com/walidamriou/Moskotcho_Remote_Slides "github")   
-- ESP IDF Examples (Hardware) [github](https://github.com/walidamriou/ESP_IDF_Examples "github")   
 - ESP32 ESP8266 IPScanner (Hardware) [github](https://github.com/walidamriou/ESP32_ESP8266_IPScanner "github")   
 - ESP32 OTA Update via HTTPS (Hardware) [github](https://github.com/walidamriou/ESP32_OTA_Update_via_HTTPS "github")  
-- Embedded Words  (Hardware/Software) [website](https://EmbeddedWords.walidamriou.com "website") Embedded Systems Dictionary 
-- Cirbyte (Hardware/Software)   [website](https://Cirbyte.walidamriou.com "website") 
-- MongoDB NodeJS basics (Software) [github](https://github.com/walidamriou/walidamriou_MongoDB_NodeJS_basics "github")
 - َHardware implementations by Arduino framework:    [ESP32 Bluetooth Low Energy BLE](https://github.com/walidamriou/ESP32_Bluetooth_Low_Energy_BLE_Arduino "Github") , [ESP8266 PWM Generator](https://github.com/walidamriou/ESP8266_PWM_Generator_Arduino "Github") , [Multitasking without RTOS](https://github.com/walidamriou/Arduino_Multitasking_without_RTOS "Github") , [IR receiver](https://github.com/walidamriou/Arduino_IR_receiver "Github")  , [Analyse IR Remote Control Protocols](https://github.com/walidamriou/ESP32_Analyse_IR_Remote_Control_Protocols "Github") , [PCF8591 Write Voltage Value I2C](https://github.com/walidamriou/Arduino_PCF8591_Write_Analog_Value_I2C "Github") , [ESP32 PWM Generator](https://github.com/walidamriou/ESP32_PWM_Generator_Arduino "Github")
 - َHardware implementations by ESP-IDF framework:    [ESP32_IPScanner](https://github.com/walidamriou/ESP32_IPScanner "Github") , [ESP8266_PWM_Generator_Arduino](https://github.com/walidamriou/ESP8266_PWM_Generator_Arduino "Github")  
 - Platformio Template:  [Atmel AVR](https://github.com/walidamriou/Atmel_AVR_Platformio_Project_Template "Github") , [M5StickC Template](https://github.com/walidamriou/M5StickC_Platformio_Template "Github") , [RoMeo V2 ATmega32U4 AVR Template
