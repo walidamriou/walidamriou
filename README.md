@@ -5,13 +5,6 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 #### My projects
 #### 2021 Open Source Projects
 1- Guardgram [github](https://github.com/walidamriou/Guardgram "github")   
-2-  
-3-  
-4-  
-5-  
-6-
-
-(Will publish soon)
 
 #### Before 2021 Open Source Projects
 1- Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
