@@ -4,8 +4,7 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 
 #### My projects
 #### 2021 Open Source Projects
-1- Guardgram [github](https://github.com/walidamriou/Guardgram "github") 
- Controlling ESP32-CAM via Telegram bot ( take and send photos ) 
+1- Guardgram [github](https://github.com/walidamriou/Guardgram "github")   
 2-  
 3-  
 4-  
