@@ -4,8 +4,13 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 
 #### My projects
 #### 2021 Open Source Projects
-1- Guardgram : [Website](https://guardgram.walidamriou.com "Website") . [github](https://github.com/walidamriou/Guardgram "github")   
-
+__1- Guardgram__    
+To control embedded low-cost surveillance system via telegram bot  
+[Website](https://guardgram.walidamriou.com "Website") . [github](https://github.com/walidamriou/Guardgram "github")   
+__2- Svichen__   
+To make IR devices smart  
+  
+  
 #### Before 2021 Open Source Projects
 1- Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
 2- Moskotcho Password Generator online / Desktop app (Software/Web) [website](https://moskotchopg.walidamriou.com "website")  
