@@ -2,8 +2,8 @@
 
 I am an Embedded systems Engineer and Software developer with 3+ years of experience. I have a Master degree in Embedded systems and a Bachelor degree in Electronics. I won several local awards in software development. I have been an active contributor with Mozilla, Mozilla Algeria, and Google Developers Group M'sila (GDG M’sila).  I am working for Groupe Brandt as an Embedded System Engineer. 
 
-#### My projects
-#### 2021 Open Source Projects
+#### __My projects__
+#### __2021 Open Source Projects__
 __1- Guardgram__    
 To control embedded low-cost surveillance system via telegram bot  
 [Website](https://guardgram.walidamriou.com "Website") . [github](https://github.com/walidamriou/Guardgram "github")   
