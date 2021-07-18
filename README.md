@@ -4,9 +4,10 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 
 #### __My projects__
 #### __2021 Open Source Projects__
+
 __1- Guardgram__    
-To control embedded low-cost surveillance system via telegram bot  
-[Website](https://guardgram.walidamriou.com "Website") . [github](https://github.com/walidamriou/Guardgram "github")   
+To control embedded low-cost surveillance system via telegram bot [Website](https://guardgram.walidamriou.com "Website") . [github](https://github.com/walidamriou/Guardgram "github")  
+
 __2- Svichen__   
 To make IR devices smart  
   
