@@ -12,7 +12,7 @@ __2- Mokhito__
 An embedded bridge to monitor tachometer sensors on web and host devices [Website](https://mokhito.walidamriou.com/ "Website") . [github](https://github.com/walidamriou/Mokhito "github")  
   
 __2- Freekeh__   
-Freekeh is an Embedded IoT Framework for Wireless Sensors monitoring [github](https://github.com/walidamriou/Freekeh "github")  
+An Embedded IoT Framework for Wireless Sensors monitoring [github](https://github.com/walidamriou/Freekeh "github")  
   
 #### Before 2021 Open Source Projects
 1- Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
