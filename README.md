@@ -3,23 +3,33 @@
 I am an Embedded systems Engineer and Software developer with 3+ years of experience. I have a Master degree in Embedded systems and a Bachelor degree in Electronics. I won several local awards in software development. I have been an active contributor with Mozilla, Mozilla Algeria, and Google Developers Group M'sila (GDG M’sila).  I am working for Groupe Brandt as an Embedded System Engineer. 
 
 #### __My projects__
-#### __2021 Open Source Projects__ (Small tools & Weekend projects)
+#### __Open Source Projects__ 
 
-__1- Guardgram__    
-To control embedded low-cost surveillance system via telegram bot [Website](https://guardgram.walidamriou.com "Website") . [github](https://github.com/walidamriou/Guardgram "github")  
+* __Guardgram__    
+To control embedded low-cost surveillance system via telegram bot [Website](https://guardgram.walidamriou.com "Website") . [github](https://github.com/walidamriou/Guardgram "github") 
 
-__2- Mokhito__   
+* __Mokhito__   
 An embedded bridge to monitor tachometer sensors on web and host devices [Website](https://mokhito.walidamriou.com/ "Website") . [github](https://github.com/walidamriou/Mokhito "github")  
   
-__2- Freekeh__   
+* __Freekeh__   
 An Embedded IoT Framework for Wireless Sensors monitoring [github](https://github.com/walidamriou/Freekeh "github")  
   
-#### Before 2021 Open Source Projects
-1- Medical Signal Box (Hardware/Software) [github](https://github.com/walidamriou/MedicalSignalsBox "github")  
-2- Moskotcho Password Generator online / Desktop app (Software/Web) [website](https://moskotchopg.walidamriou.com "website")  
-3- Nibras online / Desktop app  (Software/Web) [website](https://nibras.walidamriou.com "website") [github web source](https://github.com/walidamriou/Nibras "github repository of website") [github desktop app source](https://github.com/walidamriou/Nibras_Desktop "github repository of website")  
-4- Qrcode Generator Desktop app   (Software) [github](https://github.com/walidamriou/Qrcode-Generator-Desktop-Java "github")   
+* __Medical Signal Box__   
+An Embedded Project to collect,send and receive medical data  [github](https://github.com/walidamriou/MedicalSignalsBox "github") 
 
+* __Moskotcho Password Generator__   
+Password generator service to generate random & secure passwords  [github web app](https://github.com/walidamriou/Moskotcho_Password_Generator "github web app") . 
+ [github dekstop app](https://github.com/walidamriou/Moskotcho_Password_Generator_Desktop "github dekstop app") 
+
+* __Nibras__   
+ A guide for students of the first year at The Algerian technical universities   [github web app](https://github.com/walidamriou/Nibras "github web app") . 
+ [github dekstop app](https://github.com/walidamriou/Nibras_Desktop "github dekstop app") 
+ 
+ 
+* __Qrcode Generator__   
+  qr code generator Desktop Application based Java  [github web app](https://github.com/walidamriou/Nibras "github web app") . 
+ [github dekstop app](https://github.com/walidamriou/Nibras_Desktop "github dekstop app") 
+ 
 #### Embedded Software and Hardware Implementations 
 - WalidAmriou ESP IoT Library (Hardware) [github](https://github.com/walidamriou/WalidAmriou_ESP_IoT "github")
 - Controlling ESP by Google Calendar (Hardware/Software) [github](https://github.com/walidamriou/Controlling_ESP_by_Google_Calendar "github")   
