@@ -14,6 +14,11 @@ An embedded bridge to monitor tachometer sensors on web and host devices [Websit
 * __Freekeh__   
 An Embedded IoT Framework for Wireless Sensors monitoring [github](https://github.com/walidamriou/Freekeh "github")  
   
+
+* __TalaOS__   
+An open-source operating system for Makers.
+   * TalaOS Digital Signage:TalaOS Core For Digital Signage [github](https://github.com/walidamriou/TalaOS_DigitalSignage "github") . 
+ 
 * __Medical Signal Box__   
 An Embedded Project to collect,send and receive medical data  [github](https://github.com/walidamriou/MedicalSignalsBox "github") 
 
