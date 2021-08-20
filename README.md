@@ -18,6 +18,14 @@ An Embedded IoT Framework for Wireless Sensors monitoring [github](https://githu
 * __TalaOS__   
 An open-source operating system for Makers.
    * TalaOS Digital Signage:TalaOS Core For Digital Signage [github](https://github.com/walidamriou/TalaOS_DigitalSignage "github") . 
+
+* __Lokum__   
+ To Learn Programming Languages & tools with small programs examples.
+   * LokumPython:  To Learn Python Programming Language with small programs examples. [github](https://github.com/walidamriou/LokumPython "github") . 
+   
+* __Nibras__   
+ A guide for students of the first year at The Algerian technical universities   [github web app](https://github.com/walidamriou/Nibras "github web app") . 
+ [github dekstop app](https://github.com/walidamriou/Nibras_Desktop "github dekstop app") 
  
 * __Medical Signal Box__   
 An Embedded Project to collect,send and receive medical data  [github](https://github.com/walidamriou/MedicalSignalsBox "github") 
@@ -29,7 +37,7 @@ Password generator service to generate random & secure passwords  [github web ap
 * __Nibras__   
  A guide for students of the first year at The Algerian technical universities   [github web app](https://github.com/walidamriou/Nibras "github web app") . 
  [github dekstop app](https://github.com/walidamriou/Nibras_Desktop "github dekstop app") 
- 
+  
  
 * __Qrcode Generator__   
   qr code generator Desktop Application based Java  [github web app](https://github.com/walidamriou/Nibras "github web app") . 
