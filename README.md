@@ -21,8 +21,11 @@ An open-source operating system for Makers.
 
 * __Lokum__   
  To Learn Programming Languages & tools with small programs examples.
-   * LokumPython:  To Learn Python Programming Language with small programs examples. [github](https://github.com/walidamriou/LokumPython "github") . 
-   
+   * LokumPython: To Learn Python Programming Language with small programs examples. [github](https://github.com/walidamriou/LokumPython "github") 
+   * LokumESPIDF: To Learn using ESP-IDF (Espressif IoT Development Framework) to programming ESP32 boards with small programs examples. [github](https://github.com/walidamriou/LokumESPIDF "github") . 
+   *LokumAtmelAVR: To Learn using AVR C to programming Atmel AVR boards with small programs examples. [github](https://github.com/walidamriou/LokumAtmelAVR "github") 
+
+
 * __Nibras__   
  A guide for students of the first year at The Algerian technical universities   [github web app](https://github.com/walidamriou/Nibras "github web app") . 
  [github dekstop app](https://github.com/walidamriou/Nibras_Desktop "github dekstop app") 
@@ -44,10 +47,12 @@ Password generator service to generate random & secure passwords  [github web ap
  [github dekstop app](https://github.com/walidamriou/Nibras_Desktop "github dekstop app") 
  
 #### Embedded Software and Hardware Implementations 
+- ESP32 WebThings Template (Hardware) [github](https://github.com/walidamriou/ESP32_WebThings_waliamriou_Template "github")
 - WalidAmriou ESP IoT Library (Hardware) [github](https://github.com/walidamriou/WalidAmriou_ESP_IoT "github")
 - Controlling ESP by Google Calendar (Hardware/Software) [github](https://github.com/walidamriou/Controlling_ESP_by_Google_Calendar "github")   
 - ESP Data to Google Sheets (Hardware/Software) [github](hhttps://github.com/walidamriou/ESP_Data_to_Google_Sheets "github")   
 - Algerian Newspapers FirefoxOS application [github]( https://github.com/walidamriou/Algerian-Newspapers-FirefoxOS-application "github") 
+- ECG Generator:  Open source low-cost ECG Generator device  [github]( https://github.com/walidamriou/ECGGenerator "github") 
 - Designolor Desktop app  (Software) [github](https://github.com/walidamriou/Designolor_Desktop "github")   
 - ESP32 ESP8266 IPScanner (Hardware) [github](https://github.com/walidamriou/ESP32_ESP8266_IPScanner "github")   
 - ESP32 OTA Update via HTTPS (Hardware) [github](https://github.com/walidamriou/ESP32_OTA_Update_via_HTTPS "github")  
