@@ -22,7 +22,7 @@ An open-source operating system for Makers.
 * __Lokum__   
  To Learn Programming Languages & tools with small programs examples.
    * LokumPython: To Learn Python Programming Language with small programs examples. [github](https://github.com/walidamriou/LokumPython "github") 
-   * LokumESPIDF: To Learn using ESP-IDF (Espressif IoT Development Framework) to programming ESP32 boards with small programs examples. [github](https://github.com/walidamriou/LokumESPIDF "github") . 
+   * LokumESPIDF: To Learn using ESP-IDF (Espressif IoT Development Framework) to programming ESP32 boards with small programs examples. [github](https://github.com/walidamriou/LokumESPIDF "github")    
    *LokumAtmelAVR: To Learn using AVR C to programming Atmel AVR boards with small programs examples. [github](https://github.com/walidamriou/LokumAtmelAVR "github") 
 
 
