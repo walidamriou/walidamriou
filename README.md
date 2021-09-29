@@ -46,7 +46,11 @@ Password generator service to generate random & secure passwords  [github web ap
 * __Qrcode Generator__   
   qr code generator Desktop Application based Java  [github web app](https://github.com/walidamriou/Nibras "github web app") . 
  [github dekstop app](https://github.com/walidamriou/Nibras_Desktop "github dekstop app") 
- 
+
+* __Sturgeon__  
+Embedded project for beginners to control DC Motor speed via Display (based 4xLED and 1xbutton with buzzer)  [github](https://github.com/walidamriou/Sturgeon "github")  
+  
+  
 #### Embedded Software and Hardware Implementations 
 - ESP32 WebThings Template (Hardware) [github](https://github.com/walidamriou/ESP32_WebThings_waliamriou_Template "github")
 - WalidAmriou ESP IoT Library (Hardware) [github](https://github.com/walidamriou/WalidAmriou_ESP_IoT "github")
