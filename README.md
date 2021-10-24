@@ -8,6 +8,9 @@ I am an Embedded systems Engineer and Software developer with 3+ years of experi
 * __Guardgram__    
 To control embedded low-cost surveillance system via telegram bot [Website](https://guardgram.walidamriou.com "Website") . [github](https://github.com/walidamriou/Guardgram "github") 
 
+* __Flashy__   
+To flash microcontrollers [Website](https://flashy.walidamriou.com/ "Website") . [github](https://github.com/walidamriou/flashy "github")  
+
 * __Mokhito__   
 An embedded bridge to monitor tachometer sensors on web and host devices [Website](https://mokhito.walidamriou.com/ "Website") . [github](https://github.com/walidamriou/Mokhito "github")  
   
