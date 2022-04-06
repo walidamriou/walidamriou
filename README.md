@@ -11,9 +11,6 @@ To control embedded low-cost surveillance system via telegram bot [Website](http
 * __Flashy__   
 Minimalist tool to flash microcontrollers [Website](https://flashy.walidamriou.com/ "Website") . [github](https://github.com/walidamriou/flashy "github")  
 
-* __Greendoro__  
-A Pomodoro Time Managemen Tool [github](https://github.com/walidamriou/Greendoro "github")
-
 * __ValidTest__  
 Using python to Unit test C codes [github](https://github.com/walidamriou/ValidTest "github")
 * __Mokhito__   
