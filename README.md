@@ -24,6 +24,9 @@ An Embedded IoT Framework for Wireless Sensors monitoring [github](https://githu
 An open-source operating system for Makers.
    * TalaOS Digital Signage:TalaOS Core For Digital Signage [github](https://github.com/walidamriou/TalaOS_DigitalSignage "github") . 
 
+* __atmelhal__   
+Open-source Hardware Abstraction Layer for Atmel microcontrollers (ATmega2560, ATmega328P, ATmega328, etc) [github](https://github.com/walidamriou/atmelhal "github") . 
+   
 * __Lokum__   
  To Learn Programming Languages & tools with small programs examples.
    * LokumPython: To Learn Python Programming Language with small programs examples. [github](https://github.com/walidamriou/LokumPython "github") 
