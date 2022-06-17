@@ -11,7 +11,7 @@ To control embedded low-cost surveillance system via telegram bot [Website](http
 * __Flashy__   
 Minimalist tool to flash microcontrollers [Website](https://flashy.walidamriou.com/ "Website") . [github](https://github.com/walidamriou/flashy "github")  
 
-* __Embedded CLI__.   
+* __Embedded CLI__     
 Open, Lightweight, and Flexible Command Line Interface for Embedded Systems [github](https://github.com/walidamriou/EmbeddedCLI "github")
 
 * __ValidTest__  
