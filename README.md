@@ -1,6 +1,6 @@
 ### About me
 
-__Embedded systems Engineer__ and __Software Developer__. 
+__Embedded systems and Software Developer__. 
 
 I have Master's degree in Embedded systems and a Bachelor's degree in Electronics. 
 
